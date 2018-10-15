@@ -2,16 +2,14 @@
 
 The expense reimbursement system allows employees to login and submit reimbursement requests, and allows managers to login and approve or deny them. This application utilizes servlets to handle and respond to HTTP requests sent by the client. JDBC allows the middle-tier to query the database for user and reimbursement information. 
 
+User Stories:
 -An Employee can login
-
 -An Employee can view the Employee Homepage
-
 -An Employee can logout
-
 -An Employee can submit a reimbursement request
 -An Employee can view their pending reimbursement requests
 -An Employee can view their resolved reimbursement requests
--An Employee can view their information // profile
+-An Employee can view their information
 -An Employee can update their information 
 
 -A Manager can login
