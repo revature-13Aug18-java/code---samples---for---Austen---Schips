@@ -22,6 +22,8 @@ The expense reimbursement system allows employees to login and submit reimbursem
 - A Manager can view reimbursement requests from a single Employee
 
 
-Technologies: Java 1.8, Servlets, JDBC, PL/SQL, HTML, CSS, Javascript, Bootstrap, AJAX, JUnit, log4j
+### Technologies: 
+Java 1.8, Servlets, JDBC, PL/SQL, HTML, CSS, Javascript, Bootstrap, AJAX, JUnit, log4j
 
-Environment: Tomcat Server, Oracle 11g Database, Eclipse/Spring Tools Suite, SQL Developer
+### Environment: 
+Tomcat Server, Oracle 11g Database, Eclipse/Spring Tools Suite, SQL Developer
