@@ -1,4 +1,4 @@
-# Project 0
+# Project 0: https://github.com/Krenjaw/Krenjaw-Projects-0-1/tree/master/p0-Austen-Schips
 
 Used the DAO design pattern to create a banking application wherein users can login and logout, view their balance, and deposit or withdraw money. By using Java's scanner class, I allowed for user input, utilizing log4j to print to the console. I connected the middle-tier and back-end using Oracle's driver manager to establish a connection. 
 
