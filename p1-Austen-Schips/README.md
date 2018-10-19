@@ -1,4 +1,4 @@
-# Project 1: https://github.com/Krenjaw/Krenjaw-Projects-0-1/tree/master/p0-Austen-Schips
+# Project 1
 
 The expense reimbursement system allows employees to login and submit reimbursement requests, and allows managers to login and approve or deny them. This application utilizes servlets to handle and respond to HTTP requests sent by the client. JDBC allows the middle-tier to query the database for user and reimbursement information. 
 
@@ -27,3 +27,5 @@ Java 1.8, Servlets, JDBC, PL/SQL, HTML, CSS, Javascript, Bootstrap, AJAX, JUnit,
 
 ### Environment: 
 Tomcat Server, Oracle 11g Database, Eclipse/Spring Tools Suite, SQL Developer
+
+Link: https://github.com/Krenjaw/Krenjaw-Projects-0-1/tree/master/p1-Austen-Schips-3rd
